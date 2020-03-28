@@ -1,10 +1,4 @@
-# covid19
-
-A COVID-19 Tracker application.
-
-## Infos
-
-This project is a COVID-19 Tracker application made with Flutter.
+## This project is a COVID-19 Tracker application made with Flutter.
 
 Resources used in this project:
 
